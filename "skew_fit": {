@@ -1,0 +1,180 @@
+   "relmm": {
+        "description": "",
+        "title": "Fully Autonomous Real-World Reinforcement Learning for Mobile Manipulation",
+        "authors": [
+            "Charles Sun*", 
+            "Jedrzej Orbik*", 
+            "Coline Devin", 
+            "Brian Yang", 
+            "Abhishek Gupta", 
+            "Glen Berseth",
+            "Sergey Levine"
+        ],
+        "venue": "arXiv",
+        "year": "2021",
+        "hlinks": [
+            [
+                "PDF",
+                "https://arxiv.org/pdf/2107.13545.pdf"
+            ],
+            [
+                "Website",
+                "https://sites.google.com/view/relmm"
+            ],
+            [
+                "arXiv",
+                "https://arxiv.org/abs/2107.13545"
+            ]
+        ]
+    },
+    "mi": {
+        "description": "",
+        "title": "Which Mutual-Information Representation Learning Objectives are Sufficient for Control?",
+        "authors": [
+            "Kate Rakelly", 
+            "Abhishek Gupta", 
+            "Carlos Florensa", 
+            "Sergey Levine"
+        ],
+        "venue": "arXiv",
+        "year": "2021",
+        "hlinks": [
+            [
+                "PDF",
+                "https://arxiv.org/pdf/2106.07278.pdf"
+            ],
+            [
+                "arXiv",
+                "https://arxiv.org/abs/2106.07278"
+            ]
+        ]
+    },
+    "mural": {
+        "description": "",
+        "title": "MURAL: Meta-Learning Uncertainty-Aware Rewards for Outcome-Driven Reinforcement Learning",
+        "authors": [
+            "Kevin Li*", 
+            "Abhishek Gupta*", 
+            "Ashwin D Reddy", 
+            "Vitchyr Pong", 
+            "Aurick Zhou", 
+            "Justin Yu", 
+            "Sergey Levine"
+        ],
+        "venue": "ICML",
+        "year": "2021",
+        "hlinks": [
+            [
+                "PDF",
+                "https://arxiv.org/pdf/2107.07184.pdf"
+            ],
+            [
+                "Website",
+                "https://sites.google.com/view/mural-rl"
+            ],
+            [
+                "arXiv",
+                "https://arxiv.org/abs/2107.07184"
+            ]
+        ]
+    },
+    "r3l": {
+        "description": "",
+        "title": "Reset-Free Reinforcement Learning via Multi-Task Learning: Learning Dexterous Manipulation Behaviors without Human Intervention",
+        "authors": [
+            "Abhishek Gupta*", 
+            "Justin Yu*", 
+            "Tony Z. Zhao*", 
+            "Vikash Kumar*", 
+            "Aaron Rovinsky", 
+            "Kelvin Xu", 
+            "Thomas Devlin", 
+            "Sergey Levine"
+        ],
+        "venue": "ICRA",
+        "year": "2021",
+        "hlinks": [
+            [
+                "PDF",
+                "https://arxiv.org/pdf/2104.11203.pdf"
+            ],
+            [
+                "Website",
+                "https://sites.google.com/view/mtrf"
+            ],
+            [
+                "arXiv",
+                "https://arxiv.org/abs/2104.11203"
+            ]
+        ]
+    },
+    "discor": {
+        "description": "",
+        "title": "DisCor: Corrective Feedback in Reinforcement Learning via Distribution Correction",
+        "authors": [
+            "Aviral Kumar",
+            "Abhishek Gupta", 
+            "Sergey Levine"
+        ],
+        "venue": "NeurIPS",
+        "year": "2020",
+        "hlinks": [
+            [
+                "PDF",
+                "https://arxiv.org/pdf/2003.07305.pdf"
+            ],
+            [
+                "arXiv",
+                "https://arxiv.org/abs/2003.07305"
+            ]
+        ]
+    },
+    "pcggrad": {
+        "description": "",
+        "title": "Gradient Surgery for Multi-Task Learning",
+        "authors": [
+            "Tianhe Yu",
+            "Saurabh Kumar",
+            "Abhishek Gupta", 
+            "Sergey Levine",
+            "Karol Hausman", 
+            "Chelsea Finn", 
+        ],
+        "venue": "NeurIPS",
+        "year": "2020",
+        "hlinks": [
+            [
+                "PDF",
+                "https://arxiv.org/pdf/2001.06782.pdf"
+            ],
+            [
+                "arXiv",
+                "https://arxiv.org/abs/2001.06782"
+            ]
+        ]
+    },
+    "gcsl": {
+        "description": "",
+        "title": "Learning to Reach Goals via Iterated Supervised Learning",
+        "authors": [
+            "Dibya Ghosh*", 
+            "Abhishek Gupta*", 
+            "Justin Fu", 
+            "Ashwin Reddy", 
+            "Coline Devin", 
+            "Benjamin Eysenbach", 
+            "Sergey Levine"
+        ],
+        "venue": "ICLR",
+        "year": "2021",
+        "hlinks": [
+            [
+                "PDF",
+                "https://arxiv.org/pdf/1912.06088.pdf"
+            ],
+            [
+                "arXiv",
+                "https://arxiv.org/abs/1912.06088"
+            ]
+        ]
+    },
